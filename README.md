@@ -1,2 +1,2 @@
 # Python-Practise
-Python-practise
+Python
